@@ -1,6 +1,5 @@
-### Привет, я Сергей Дульцев👋
+### Hi, I'm Sergey Dultsev👋
 
-Hi, I'm Sergey Dultsev👋
 Web developer from Tomsk. I work with Laravel, Vue and React. I like order in code, I don't run after fashion - I appreciate when everything works and is clear.
 
 # 💻 Tech Stack:
